@@ -22,10 +22,9 @@
 
 <br />
 <br />
+
 **`Frameworks`**
-
-
-
+xd
 
 <img align="left" width="30px" style="padding-right:10px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Kubernet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
