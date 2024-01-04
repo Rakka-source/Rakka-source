@@ -5,14 +5,10 @@
 
  **`Programming language`**
 
-<table style="background-color: gray;width:45% ">
-    <tr>
-      <th><img align="left" width="30px" style="padding-right:10px" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></th>
-      <th><img align="left" width="30px" style="padding-right:10px" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></th>
-      <th><img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></th>
-      <th><img align="left" width="30px" style="padding-right:10px" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </th>
-
-  </table>
+<img  style="background-color:red;" align="left" width="30px" style="padding-right:10px" bac alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 <br />
 <br />
 
@@ -37,4 +33,3 @@
 <br />
 
 **`Operating system`**
-
