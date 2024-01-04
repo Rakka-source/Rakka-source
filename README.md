@@ -25,7 +25,7 @@
 
 **`Developer Tools`**
 
-![GitHub-Mark-Light]<img align="left" width="30px" style="padding-right:10px" alt="Docker" src="/static/Icons/docker-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px" alt="Docker" src="/static/Icons/docker-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Kubernet" src="/static/Icons/kubernetes-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Jenkins" src="/static/Icons/jenkins-original.svg" />
 
