@@ -23,20 +23,13 @@
 <br />
 <br />
 
-<<<<<<< HEAD
 **`Developer Tools`**
-=======
-
->>>>>>> 98bb245b2bb75f010804c3cb224b285919fdca48
 
 <img align="left" width="30px" style="padding-right:10px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Kubernet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<<<<<<< HEAD
 
 <br />
 <br />
 
 **`Operating system`**
-=======
->>>>>>> 98bb245b2bb75f010804c3cb224b285919fdca48
