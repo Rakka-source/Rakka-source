@@ -1,5 +1,5 @@
 # Rakka-Source :
-**`I love to Automate. My name is Felipe`**
+**`I love to Automate. Hi! My name is Felipe`**
 
  I'm a passionate developer specializing in process automation and documentation generation. In my free time, I enjoy teaching others, and I love collecting experiences. 🚀
 
@@ -22,13 +22,14 @@
 
 <br />
 <br />
-**`Frameworks`**
 
-
-
+**`Developer Tools`**
 
 <img align="left" width="30px" style="padding-right:10px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Kubernet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-       
-          
+
+<br />
+<br />
+
+**`Operating system`**
