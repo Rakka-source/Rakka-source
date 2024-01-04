@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="282.577 7.863 193 189" width="193" height="189" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="filter-1" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%" bx:preset="inner-shadow 1 0 0 14 0.5 rgb(100%46.275%23.137%)">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur stdDeviation="14"/>
+      <feComposite operator="out" in="SourceGraphic"/>
+      <feComponentTransfer result="choke">
+        <feFuncA type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgb(100%46.275%23.137%)" result="color"/>
+      <feComposite operator="in" in="color" in2="choke" result="shadow"/>
+      <feComposite operator="over" in="shadow" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); opacity: 0.72; stroke-miterlimit: 1; stroke-width: 0px; filter: url('#filter-1');" transform="matrix(0.5624299645423889, 0, 0, 0.5606439709663391, -1.032052993774414, -232.07492065429688)" cx="677.5" cy="596" r="157.5"/>
+  <rect x="282.577" y="7.863" width="193" height="189" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-opacity: 0; opacity: 0;"/>
+  <path fill="#659AD3" d="M 432.215 69.063 L 383.915 41.263 C 383.115 40.763 382.015 40.563 380.815 40.563 C 379.615 40.563 378.515 40.863 377.715 41.263 L 329.715 69.163 C 328.015 70.163 326.815 72.663 326.815 74.563 L 326.815 130.263 C 326.815 131.363 327.015 132.663 327.815 133.763 L 434.615 71.763 C 434.015 70.563 433.115 69.663 432.215 69.063 Z"/>
+  <path fill="#03599C" d="M 327.515 133.663 C 328.015 134.463 328.715 135.163 329.415 135.563 L 377.615 163.463 C 378.415 163.963 379.515 164.163 380.715 164.163 C 381.915 164.163 383.015 163.863 383.815 163.463 L 431.815 135.563 C 433.515 134.563 434.715 132.063 434.715 130.163 L 434.715 74.463 C 434.715 73.563 434.615 72.563 434.115 71.663 L 327.515 133.663 Z"/>
+  <path fill="#fff" d="M 402.115 114.463 C 397.915 121.863 389.915 126.863 380.815 126.863 C 367.315 126.863 356.315 115.863 356.315 102.363 C 356.315 88.863 367.315 77.863 380.815 77.863 C 389.915 77.863 397.915 82.863 402.115 90.363 L 415.115 82.863 C 408.315 70.963 395.515 62.863 380.815 62.863 C 359.015 62.863 341.315 80.563 341.315 102.363 C 341.315 124.163 359.015 141.863 380.815 141.863 C 395.415 141.863 408.215 133.863 415.015 122.063 L 402.115 114.463 Z"/>
+</svg>
