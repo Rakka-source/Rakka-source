@@ -1,10 +1,10 @@
 
-# Rakka-Source :
+# :coffee: Rakka-Source :coffee: :
 **`I love to Automate. Hi! My name is Felipe`**
 
  I'm a passionate developer specializing in process automation and documentation generation. In my free time, I enjoy teaching others, and I love collecting experiences. 🚀
 
- **`Programming language`**
+ :construction:**`Programming language `**:construction:
  
 
 
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-**`Frameworks and Libraries`**
+:pill:**`Frameworks and Libraries`**:pill:
 
 <img align="left" width="55px" style="padding-right:10px" alt="Django" src="/static/Icons/darkMode/django-plain.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="React" src="/static/Icons/darkMode/react-original-wordmark.svg#gh-dark-mode-only" />
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-**`Developer Tools`**
+:violin:**`Developer Tools`**:violin:
 
 <img align="left" width="55px" style="padding-right:10px" alt="Django" src="/static/Icons/darkMode/docker-original-wordmark.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="React" src="/static/Icons/darkMode/kubernetes-plain.svg#gh-dark-mode-only" />
@@ -53,7 +53,7 @@
 <br />
 <br />
 
-**`Operating system`**
+:house:**`Operating system`**:house:
 
 <img align="left" width="55px" style="padding-right:10px" alt="Docker" src="/static/Icons/darkMode/windows-original.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="Kubernet" src="/static/Icons/darkMode/linux-original.svg#gh-dark-mode-only" />
