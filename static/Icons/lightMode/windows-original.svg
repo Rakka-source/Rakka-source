@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#00ADEF" d="M126 1.637l-67 9.834v49.831l67-.534zM1.647 66.709l.003 42.404 50.791 6.983-.04-49.057zm56.82.68l.094 49.465 67.376 9.509.016-58.863zM1.61 19.297l.047 42.383 50.791-.289-.023-49.016z"/></svg>
+<svg viewBox="291.4315 13.7674 177.1654 176.6028" width="177.165" height="176.603" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="filter-1" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%" bx:preset="inner-shadow 1 0 0 14 0.5 rgb(100%46.275%23.137%)">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur stdDeviation="14"/>
+      <feComposite operator="out" in="SourceGraphic"/>
+      <feComponentTransfer result="choke">
+        <feFuncA type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgb(100%46.275%23.137%)" result="color"/>
+      <feComposite operator="in" in="color" in2="choke" result="shadow"/>
+      <feComposite operator="over" in="shadow" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); opacity: 0.72; stroke-miterlimit: 1; filter: url('#filter-1'); stroke-width: 12.4658px; stroke-opacity: 0.09;" transform="matrix(0.5624299645423889, 0, 0, 0.5606439709663391, -1.032052993774414, -232.07492065429688)" cx="677.5" cy="596" r="157.5"/>
+  <path fill="#00ADEF" d="M 429.772 46.843 L 374.555 54.948 L 374.555 96.015 L 429.772 95.575 L 429.772 46.843 Z M 327.288 100.471 L 327.291 135.418 L 369.15 141.173 L 369.117 100.743 L 327.288 100.471 Z M 374.116 101.032 L 374.193 141.798 L 429.72 149.634 L 429.734 101.123 L 374.116 101.032 Z M 327.258 61.397 L 327.297 96.327 L 369.155 96.088 L 369.136 55.693 L 327.258 61.397 Z" style=""/>
+</svg>
