@@ -40,10 +40,10 @@
 
 **`Developer Tools`**
 
-<img align="left" width="55px" style="padding-right:10px" alt="Django" src="/static/Icons/darkMode/django-plain.svg#gh-dark-mode-only" />
-<img align="left" width="55px" style="padding-right:10px" alt="React" src="/static/Icons/darkMode/react-original-wordmark.svg#gh-dark-mode-only" />
-<img align="left" width="55px" style="padding-right:10px" alt="Pandas PY" src="/static/Icons/darkMode/pandas-original-wordmark.svg#gh-dark-mode-only" />
-<img align="left" width="55px" style="padding-right:10px" alt="Selenium" src="/static/Icons/darkMode/selenium-original.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="Django" src="/static/Icons/darkMode/docker-original-wordmark.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="React" src="/static/Icons/darkMode/kubernetes-plain.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="Pandas PY" src="/static/Icons/darkMode/jenkins-original.svg#gh-dark-mode-only" />
+
 
 <img align="left" width="55px" style="padding-right:10px" alt="Docker" src="/static/Icons/lightMode/docker-original-wordmark.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="Kubernet" src="/static/Icons/lightMode/kubernetes-plain.svg#gh-light-mode-only" />
@@ -55,8 +55,8 @@
 
 **`Operating system`**
 
-<img align="left" width="55px" style="padding-right:10px" alt="Docker" src="/static/Icons/lightMode/windows-original.svg#gh-dark-mode-only" />
-<img align="left" width="55px" style="padding-right:10px" alt="Kubernet" src="/static/Icons/lightMode/linux-original.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="Docker" src="/static/Icons/darkMode/windows-original.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="Kubernet" src="/static/Icons/darkMode/linux-original.svg#gh-dark-mode-only" />
 
 <img align="left" width="55px" style="padding-right:10px" alt="Docker" src="/static/Icons/lightMode/windows-original.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="Kubernet" src="/static/Icons/lightMode/linux-original.svg#gh-light-mode-only" />
