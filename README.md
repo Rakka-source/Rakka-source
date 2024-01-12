@@ -61,4 +61,11 @@
 <a href="https://learn.microsoft.com/es-es/#gh-light-mode-only"><img align="left" width="55px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/windows-original.svg#gh-light-mode-only" /></a>
 <a href="https://www.redhat.com/en/services/training-and-certification#gh-light-mode-only"><img align="left" width="55px" style="padding-right:10px" alt="Linux" src="/static/Icons/lightMode/linux-original.svg#gh-light-mode-only" /></a>
 
+<br />
+<br />
+<details #gh-light-mode-only>
+  <summary>Appareance Mode </summary>
+  <a href="https://github.com/settings/appearance#gh-dark-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/darkMode/lightMode.jpg#gh-dark-mode-only" /></a>
+  <a href="https://github.com/settings/appearance#gh-light-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/darkMode/lightMode.jpg#gh-light-mode-only" /></a>
+</details>
 
