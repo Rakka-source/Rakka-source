@@ -63,6 +63,8 @@
 
 <br />
 <br />
+<br />
+
 <details #gh-light-mode-only>
   <summary>Appareance Mode </summary>
   <a href="https://github.com/settings/appearance#gh-dark-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/darkMode/lightMode.jpg#gh-dark-mode-only" /></a>
