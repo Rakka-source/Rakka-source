@@ -1,5 +1,5 @@
 
-# :coffee: <img align="center" width="350px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode/logo.png//> :coffee: :
+# :coffee: <img align="center" width="350px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode/logo.png" /> :coffee: :
 
 **`I love to Automate. Hi! My name is Felipe`**
 
