@@ -8,12 +8,12 @@
  :construction:**`Programming language `**:construction:
  
 
-<img align="left" width="55px" style="padding-right:10px" alt="Python" src="/static/Icons/darkMode/python-original-wordmark.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" href="https://www.python.org/" alt="Python" src="/static/Icons/darkMode/python-original-wordmark.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C#" src="/static/Icons/darkMode/csharp-original.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C" src="/static/Icons/darkMode/c-original.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="JS" src="/static/Icons/darkMode/javascript-original.svg#gh-dark-mode-only" /> 
 
-<img align="left" width="55px" style="padding-right:10px" alt="Python" src="/static/Icons/lightMode/python-original-wordmark.svg#gh-light-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" href="https://www.python.org/" alt="Python" src="/static/Icons/lightMode/python-original-wordmark.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C#" src="/static/Icons/lightMode/csharp-original.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C" src="/static/Icons/lightMode/c-original.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="JS" src="/static/Icons/lightMode/javascript-original.svg#gh-light-mode-only" /> 
