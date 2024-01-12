@@ -1,6 +1,6 @@
 
 # :coffee: Rakka-Source :coffee: :
-<img align="left" width="55px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode//#gh-light-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode/logo.png/#gh-light-mode-only" />
 
 **`I love to Automate. Hi! My name is Felipe`**
 
