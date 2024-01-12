@@ -1,5 +1,7 @@
 
 # :coffee: Rakka-Source :coffee: :
+<img align="left" width="55px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode//#gh-light-mode-only" />
+
 **`I love to Automate. Hi! My name is Felipe`**
 
  I'm a passionate developer specializing in process automation and documentation generation. In my free time, I enjoy teaching others, and I love collecting experiences. 🚀
@@ -7,13 +9,12 @@
  :construction:**`Programming language `**:construction:
  
 
-
-<img align="left" width="55px" style="padding-right:10px" bac alt="Python" src="/static/Icons/darkMode/python-original-wordmark.svg#gh-dark-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="Python" src="/static/Icons/darkMode/python-original-wordmark.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C#" src="/static/Icons/darkMode/csharp-original.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C" src="/static/Icons/darkMode/c-original.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="JS" src="/static/Icons/darkMode/javascript-original.svg#gh-dark-mode-only" /> 
 
-<img align="left" width="55px" style="padding-right:10px" bac alt="Python" src="/static/Icons/lightMode/python-original-wordmark.svg#gh-light-mode-only" />
+<img align="left" width="55px" style="padding-right:10px" alt="Python" src="/static/Icons/lightMode/python-original-wordmark.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C#" src="/static/Icons/lightMode/csharp-original.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="C" src="/static/Icons/lightMode/c-original.svg#gh-light-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="JS" src="/static/Icons/lightMode/javascript-original.svg#gh-light-mode-only" /> 
@@ -38,7 +39,7 @@
 <br />
 <br />
 
-:violin:**`Developer Tools`**:violin:
+🧰 **`Developer Tools`** 🧰
 
 <img align="left" width="55px" style="padding-right:10px" alt="Django" src="/static/Icons/darkMode/docker-original-wordmark.svg#gh-dark-mode-only" />
 <img align="left" width="55px" style="padding-right:10px" alt="React" src="/static/Icons/darkMode/kubernetes-plain.svg#gh-dark-mode-only" />
