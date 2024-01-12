@@ -1,5 +1,5 @@
 
-# :coffee: <img align="center" width="350px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode/logo.png/#gh-dark-mode-only" /> <img align="center" width="350px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode/logo.png/#gh-light-mode-only" /> :coffee: :
+# :coffee: <img align="center" width="350px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/darkMode/logo.png/#gh-dark-mode-only" /> <img align="center" width="350px" style="padding-right:10px" alt="RakkaSource" src="/static/Icons/lightMode/logo.png/#gh-light-mode-only" /> :coffee: :
 
 **`I love to Automate. Hi! My name is Felipe`**
 
