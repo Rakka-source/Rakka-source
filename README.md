@@ -65,8 +65,9 @@
 <br />
 <br />
 
+<img align="left" width="300px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/BaseIcons/LogoRakkautta.png" />
 <details>
-  <summary>Appareance Mode <img align="left" width="300px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/BaseIcons/LogoRakkautta.png" /> </summary>
+  <summary>Appareance Dark/Light</summary>
   <a href="https://github.com/settings/appearance#gh-dark-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/darkMode/lightMode.jpg#gh-dark-mode-only" /></a>
   <a href="https://github.com/settings/appearance#gh-light-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/darkMode.jpg#gh-light-mode-only" /></a>
 </details>
