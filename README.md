@@ -81,6 +81,5 @@
   <a href="https://www.tiktok.com/@rakkasource#gh-light-mode-only"><img align="left" width="40px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/tiktok.svg#gh-light-mode-only" /></a>
   <br />
   <br />
-  <img align="left" width="300px" style="padding-right:10px" src="/static/Icons/transparent.svg" />
 
 </details>
