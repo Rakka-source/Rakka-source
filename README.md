@@ -70,7 +70,7 @@
   <summary>Appareance Dark/Light</summary>
   <a href="https://github.com/settings/appearance#gh-dark-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/darkMode/lightMode.jpg#gh-dark-mode-only" /></a>
   <a href="https://github.com/settings/appearance#gh-light-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/darkMode.jpg#gh-light-mode-only" /></a>
-  <img align="left" width="300px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/transparent.svg" />
+  <img align="left" width="300px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/BaseIcons/LogoRakkautta.png" />
 
 </details>
 <details>
@@ -78,6 +78,6 @@
   <a href="https://www.linkedin.com/in/felipe-andres-gutierrez-benitez-3b82681a3/"><img align="left" width="40px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/BaseIcons/linkedin-original.svg" /></a>
   <a href="https://www.tiktok.com/@rakkasource#gh-dark-mode-only"><img align="left" width="40px" style="padding-right:10px" alt="Windows" src="/static/Icons/darkMode/tiktok.svg#gh-dark-mode-only" /></a>
   <a href="https://www.tiktok.com/@rakkasource#gh-light-mode-only"><img align="left" width="40px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/tiktok.svg#gh-light-mode-only" /></a>
-  <img align="left" width="300px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/transparent.svg" />
+  <img align="left" width="300px" style="padding-right:10px" alt="LinkedIn" src="/static/Icons/BaseIcons/LogoRakkautta.png" />
 
 </details>
