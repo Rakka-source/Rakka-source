@@ -72,7 +72,7 @@
   <a href="https://github.com/settings/appearance#gh-light-mode-only"><img align="left" width="500px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/darkMode.jpg#gh-light-mode-only" /></a>
   <br />
   <br />
-  <img align="left" width="300px" style="padding-right:10px" src="/static/Icons/BaseIcons/LogoRakkautta.png" />
+  <img align="left" width="300px" style="padding-right:10px" src="/static/Icons/transparent.svg" />
 </details>
 <details>
   <summary>Social Networking</summary>
@@ -81,6 +81,6 @@
   <a href="https://www.tiktok.com/@rakkasource#gh-light-mode-only"><img align="left" width="40px" style="padding-right:10px" alt="Windows" src="/static/Icons/lightMode/tiktok.svg#gh-light-mode-only" /></a>
   <br />
   <br />
-  <img align="left" width="300px" style="padding-right:10px" src="/static/Icons/BaseIcons/LogoRakkautta.png" />
+  <img align="left" width="300px" style="padding-right:10px" src="/static/Icons/transparent.svg" />
 
 </details>
