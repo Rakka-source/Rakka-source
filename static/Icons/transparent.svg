@@ -1,1 +1,4 @@
-<circle xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" cx="150.267" cy="149.854" r="111.303" fill-opacity="1"/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="96.738" y="80.427" width="163.667" height="117.548" style="fill: rgba(216, 216, 216, 0); stroke: rgba(0, 0, 0, 0);"/>
+</svg>
